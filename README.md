@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Fabian Bloch, a 25 years old student of "Geodesy and Geoinformatics" at [HafenCity University Hamburg](https://www.hcu-hamburg.de/bachelor/geo).
+
+I know basics in Python because of my study.
+
+You can follow me on [Instagram](https://www.instagram.com/fub1_b10ch.geo/) and visit some cool links on my [linktree](https://linktr.ee/fub1_b10ch.geo).
