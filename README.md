@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Fabian Bloch, a 2/ years old student of "Geodesy and Geoinformatics" at [HafenCity University Hamburg](https://www.hcu-hamburg.de/master/geo).
+I am Fabian Bloch, a 27 years old student of "Geodesy and Geoinformatics" at [HafenCity University Hamburg](https://www.hcu-hamburg.de/master/geo).
 
 I know basics in Python because of my study. I have a good command of LaTeX.
 
